@@ -21,7 +21,7 @@ This repository contains the code for ClassyCrate, an elegant and sophisticated 
 <h3>Getting Started</h3>
 <p>To get a copy of the project up and running on your local machine, follow these steps:</p>
 <ol>
-  <li>Clone the repository: git clone https://github.com/your-username/classycrate.git</li>
+  <li>Clone the repository: git clone [https://github.com/your-username/classycrate.git](https://github.com/faizalmsdev/ClassyCrate-Eccomerce-Site)</li>
   <li>Navigate to the project directory: cd classycrate</li>
   <li>Open the index.html file in your preferred web browser.</li>
 </ol>
